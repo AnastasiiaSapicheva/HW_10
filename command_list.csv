@@ -1,0 +1,16 @@
+  223  git checkout -b develop
+  224  touch develop_test.txt
+  225  git add .
+  226  git commit -m "created new file"
+  227  vim develop_test.txt
+  228  git status
+  229  get add .
+  230  git add .
+  231  commit -m "changed file"
+  232  git commit -m "changed file"
+  233  git checkout -b main
+  234  git chekout main
+  235  git chekcout main
+  236  git checkout main
+  237  git merge develop
+  238  git log
